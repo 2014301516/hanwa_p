@@ -22,7 +22,7 @@ jobs:
 
     - name: Clone target repository
       run: |
-        git clone https://github.com/2014301516/hanwa_p target-repo
+        git clone https://github.com/2014301516/hanwa_s target-repo
       # 克隆目标仓库到 `target-repo` 目录
 
     - name: Copy public folder to target repository
